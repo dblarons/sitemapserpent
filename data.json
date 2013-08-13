@@ -1,0 +1,50 @@
+{
+    "www.example.com": [
+        {
+            "loc": "www.example.com/IMAGE",
+            "caption": "Image about kittens",
+            "geo_location": "London, England",
+            "title": "Kitten Image",
+            "License": "Example License"
+        },
+        {
+            "loc": "www.example.com/IMAGE2",
+            "caption": "Image about kittens",
+            "geo_location": "London, England",
+            "title": "Kitten Image",
+            "License": "Example License"
+        }
+    ],
+    "www.example.org": [
+        {
+            "loc": "www.example.org/IMAGE",
+            "caption": "Image about kittens",
+            "geo_location": "London, England",
+            "title": "Kitten Image",
+            "License": "Example License"
+        },
+        {
+            "loc": "www.example.org/IMAGE2",
+            "caption": "Image about kittens",
+            "geo_location": "London, England",
+            "title": "Kitten Image",
+            "License": "Example License"
+        }
+    ],
+    "www.example.net": [
+        {
+            "loc": "www.example.net/IMAGE",
+            "caption": "Image about kittens",
+            "geo_location": "London, England",
+            "title": "Kitten Image",
+            "License": "Example License"
+        },
+        {
+            "loc": "www.example.net/IMAGE2",
+            "caption": "Image about kittens",
+            "geo_location": "London, England",
+            "title": "Kitten Image",
+            "License": "Example License"
+        }
+    ]
+}
