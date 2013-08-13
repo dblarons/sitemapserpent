@@ -36,7 +36,7 @@ site = SiteMap(image=True)
 Pass in a dictionary of urls that contains a list of images: 
 
 
-```json
+```python
 data = {
     "www.example.com": [
         {
