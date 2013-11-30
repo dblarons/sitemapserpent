@@ -1,6 +1,12 @@
 SiteMapSerpent
 --------------
 
+### Installation
+
+Sitemapserpent can be installed with pip.
+
+`pip install sitemapserpent`
+
 ### Generate a Sitemap
 
 #### Non-image Sitemap
